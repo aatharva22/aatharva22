@@ -4,12 +4,6 @@
 💻 Full Stack Developer with hands-on industry experience  
 🚀 Interested in building scalable, production-ready web applications  
 
-## 👨‍💻 About Me
-I have experience designing and developing full-stack applications using modern JavaScript frameworks and backend technologies. I enjoy working on real-world problems, building RESTful APIs, and improving system reliability through clean architecture and CI/CD automation.
-
-I have worked in Agile/Scrum environments and am comfortable collaborating with cross-functional teams to deliver high-quality software. I am always curious to learn new technologies and continuously improve my engineering skills.
----
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
