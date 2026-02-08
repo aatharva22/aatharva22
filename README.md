@@ -7,8 +7,9 @@
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- JavaScript, TypeScript, Java, Python, SQL  
-- HTML5, CSS3, Swift, C, C++
+- JavaScript, TypeScript, SQL, HTML5, CSS3
+- Swift, SwiftUI, UIKit,
+- Python, C, C++, Java
 
 ### Frontend
 - React.js, Next.js, Angular  
