@@ -2,7 +2,7 @@
 
 Master’s student in Computer Science at Northeastern University (Boston)  
 Full Stack Developer with hands-on industry experience  
-Interested in building scalable, production-ready web applications  
+Building scalable, production-ready web applications and AI powered products 
 
 ## Technical Skills
 
@@ -19,6 +19,14 @@ Interested in building scalable, production-ready web applications
 - Node.js, Express  
 - RESTful API Design  
 - Microservices (REST-based)
+
+### AI / ML
+- Classical ML:scikit-learn, regression, classification
+- Reinforcement Learning: Q-learning, policy optimization
+- LLM Integration: OpenAI & Anthropic APIs, prompt engineering
+- RAG & Vector DBs: Pinecone, Chroma, embeddings
+- Agents & Tooling: LangChain, tool use, agent workflows
+- Frameworks: TensorFlow, PyTorch
 
 ### Databases
 - MongoDB, PostgreSQL, Firebase  
