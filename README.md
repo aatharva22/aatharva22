@@ -9,7 +9,7 @@ Building scalable, production-ready web applications and AI powered products
 ### Programming Languages
 - JavaScript, TypeScript, SQL, HTML5, CSS3
 - Swift, SwiftUI, UIKit,
-- Python, C, C++, Java
+- Python, Go, C, C++, Java
 
 ### Frontend
 - React.js, Next.js, Angular  
